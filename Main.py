@@ -17,4 +17,5 @@ NombreLabel = Label(PantallaIncial, text= "Ingrese el nombre de marine", bg="whi
 NombreLabel.place(x=225, y=230)
 NombreJugador = Entry(PantallaIncial, bg="white", fg="black", justify="center")
 NombreJugador.place(x=240, y=260)
+"Hola"
 PantallaIncial.mainloop()
